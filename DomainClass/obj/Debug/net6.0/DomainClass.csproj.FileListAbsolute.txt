@@ -1,0 +1,36 @@
+C:\Users\Bruno\Desktop\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Instituto\DomainClass\bin\Debug\net6.0\DomainClass.deps.json
+C:\Users\Bruno\Desktop\Instituto\DomainClass\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Bruno\Desktop\Instituto\DomainClass\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Bruno\Desktop\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.dll
+C:\Users\Bruno\Desktop\Instituto\DomainClass\obj\Debug\net6.0\refint\DomainClass.dll
+C:\Users\Bruno\Desktop\Instituto\DomainClass\obj\Debug\net6.0\DomainClass.pdb
+C:\Users\Bruno\Desktop\Instituto\DomainClass\obj\Debug\net6.0\ref\DomainClass.dll
+C:\Users\Bruno\Desktop\Photography\DomainClass\bin\Debug\net6.0\DomainClass.deps.json
+C:\Users\Bruno\Desktop\Photography\DomainClass\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Bruno\Desktop\Photography\DomainClass\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Bruno\Desktop\Photography\DomainClass\obj\Debug\net6.0\DomainClass.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Photography\DomainClass\obj\Debug\net6.0\DomainClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Photography\DomainClass\obj\Debug\net6.0\DomainClass.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Photography\DomainClass\obj\Debug\net6.0\DomainClass.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Photography\DomainClass\obj\Debug\net6.0\DomainClass.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Photography\DomainClass\obj\Debug\net6.0\DomainClass.dll
+C:\Users\Bruno\Desktop\Photography\DomainClass\obj\Debug\net6.0\refint\DomainClass.dll
+C:\Users\Bruno\Desktop\Photography\DomainClass\obj\Debug\net6.0\DomainClass.pdb
+C:\Users\Bruno\Desktop\Photography\DomainClass\obj\Debug\net6.0\ref\DomainClass.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\DomainClass\bin\Debug\net6.0\DomainClass.deps.json
+C:\Users\leand\Desktop\Nuevo Dos\Photography\DomainClass\bin\Debug\net6.0\DomainClass.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\DomainClass\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\DomainClass\obj\Debug\net6.0\DomainClass.csproj.AssemblyReference.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\DomainClass\obj\Debug\net6.0\DomainClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Desktop\Nuevo Dos\Photography\DomainClass\obj\Debug\net6.0\DomainClass.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\DomainClass\obj\Debug\net6.0\DomainClass.AssemblyInfo.cs
+C:\Users\leand\Desktop\Nuevo Dos\Photography\DomainClass\obj\Debug\net6.0\DomainClass.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\DomainClass\obj\Debug\net6.0\DomainClass.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\DomainClass\obj\Debug\net6.0\refint\DomainClass.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\DomainClass\obj\Debug\net6.0\DomainClass.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\DomainClass\obj\Debug\net6.0\ref\DomainClass.dll

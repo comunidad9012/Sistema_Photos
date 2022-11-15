@@ -1,0 +1,51 @@
+C:\Users\Bruno\Desktop\Instituto\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\Bruno\Desktop\Instituto\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\Bruno\Desktop\Instituto\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\Bruno\Desktop\Instituto\Persistence\bin\Debug\net6.0\ApplicationServices.dll
+C:\Users\Bruno\Desktop\Instituto\Persistence\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Bruno\Desktop\Instituto\Persistence\bin\Debug\net6.0\ApplicationServices.pdb
+C:\Users\Bruno\Desktop\Instituto\Persistence\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Bruno\Desktop\Instituto\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Instituto\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Instituto\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Instituto\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Instituto\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Instituto\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\Bruno\Desktop\Instituto\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\Bruno\Desktop\Instituto\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\Bruno\Desktop\Instituto\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\Bruno\Desktop\Instituto\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Users\Bruno\Desktop\Photography\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\Bruno\Desktop\Photography\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\Bruno\Desktop\Photography\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\Bruno\Desktop\Photography\Persistence\bin\Debug\net6.0\ApplicationServices.dll
+C:\Users\Bruno\Desktop\Photography\Persistence\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Bruno\Desktop\Photography\Persistence\bin\Debug\net6.0\ApplicationServices.pdb
+C:\Users\Bruno\Desktop\Photography\Persistence\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Bruno\Desktop\Photography\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Photography\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Photography\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Photography\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Photography\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Photography\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\Bruno\Desktop\Photography\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\Bruno\Desktop\Photography\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\Bruno\Desktop\Photography\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\Bruno\Desktop\Photography\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\bin\Debug\net6.0\ApplicationServices.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\bin\Debug\net6.0\DomainClass.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\bin\Debug\net6.0\ApplicationServices.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\Persistence\obj\Debug\net6.0\ref\Persistence.dll

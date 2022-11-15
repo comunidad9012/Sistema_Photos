@@ -1,0 +1,45 @@
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\bin\Debug\net6.0\ApplicationServices.deps.json
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\bin\Debug\net6.0\ApplicationServices.dll
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\bin\Debug\net6.0\ApplicationServices.pdb
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\obj\Debug\net6.0\ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\obj\Debug\net6.0\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\obj\Debug\net6.0\ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\obj\Debug\net6.0\ApplicationServices.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\obj\Debug\net6.0\ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\obj\Debug\net6.0\ApplicationServices.csproj.CopyComplete
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\obj\Debug\net6.0\ApplicationServices.dll
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\obj\Debug\net6.0\refint\ApplicationServices.dll
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\obj\Debug\net6.0\ApplicationServices.pdb
+C:\Users\Bruno\Desktop\Instituto\ApplicationServices\obj\Debug\net6.0\ref\ApplicationServices.dll
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\bin\Debug\net6.0\ApplicationServices.deps.json
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\bin\Debug\net6.0\ApplicationServices.dll
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\bin\Debug\net6.0\ApplicationServices.pdb
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.csproj.CopyComplete
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.dll
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\obj\Debug\net6.0\refint\ApplicationServices.dll
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.pdb
+C:\Users\Bruno\Desktop\Photography\ApplicationServices\obj\Debug\net6.0\ref\ApplicationServices.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\bin\Debug\net6.0\ApplicationServices.deps.json
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\bin\Debug\net6.0\ApplicationServices.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\bin\Debug\net6.0\ApplicationServices.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\bin\Debug\net6.0\DomainClass.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.AssemblyInfo.cs
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.csproj.CopyComplete
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\obj\Debug\net6.0\refint\ApplicationServices.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\obj\Debug\net6.0\ApplicationServices.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ApplicationServices\obj\Debug\net6.0\ref\ApplicationServices.dll

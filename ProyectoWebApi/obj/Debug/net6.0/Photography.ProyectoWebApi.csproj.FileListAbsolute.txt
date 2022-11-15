@@ -1,0 +1,228 @@
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.exe
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.deps.json
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.runtimeconfig.json
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.pdb
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Ardalis.Specification.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Ardalis.Specification.EntityFrameworkCore.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\ApplicationServices.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Persistence.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\ApplicationServices.pdb
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\Persistence.pdb
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\scopedcss\bundle\Photography.ProyectoWebApi.styles.css
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.csproj.CopyComplete
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\refint\Photography.ProyectoWebApi.dll
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.pdb
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\Instituto\ProyectoWebApi\obj\Debug\net6.0\ref\Photography.ProyectoWebApi.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.exe
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.deps.json
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.runtimeconfig.json
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.pdb
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Ardalis.Specification.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Ardalis.Specification.EntityFrameworkCore.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\ApplicationServices.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Persistence.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\ApplicationServices.pdb
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\Persistence.pdb
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\scopedcss\bundle\Photography.ProyectoWebApi.styles.css
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.csproj.CopyComplete
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\refint\Photography.ProyectoWebApi.dll
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.pdb
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\Photography\ProyectoWebApi\obj\Debug\net6.0\ref\Photography.ProyectoWebApi.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.exe
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.deps.json
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.runtimeconfig.json
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Photography.ProyectoWebApi.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Ardalis.Specification.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Ardalis.Specification.EntityFrameworkCore.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\ApplicationServices.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\DomainClass.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Persistence.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\ApplicationServices.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\Persistence.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.csproj.AssemblyReference.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.AssemblyInfo.cs
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\scopedcss\bundle\Photography.ProyectoWebApi.styles.css
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.csproj.CopyComplete
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\refint\Photography.ProyectoWebApi.dll
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.pdb
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\Photography.ProyectoWebApi.genruntimeconfig.cache
+C:\Users\leand\Desktop\Nuevo Dos\Photography\ProyectoWebApi\obj\Debug\net6.0\ref\Photography.ProyectoWebApi.dll
